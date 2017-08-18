@@ -1,0 +1,285 @@
+/*NAVBAR*/
+
+ .navbar-style {
+   
+   padding-bottom: 25px;
+ }
+
+.navbar-nav {
+  font-family: 'Open Sans', sans-serif;
+  margin: 15px 15px 0;
+}
+
+.navbar-style .navbar-nav li a {
+  color: black;
+}
+
+.nav>li>a:hover, .nav>li>a:focus {
+    background-color: transparent;
+}
+
+.navbar-style .navbar-nav li a:hover {
+  color: #ff445f;
+}
+
+p {
+  color: #a0aab0;
+}
+
+/*HERO*/
+
+#hero-headline {
+  color: #fff;
+}
+
+.hero-content {
+  padding-top:250px;
+}
+
+#hero {
+  padding:80px 0 80px;
+}
+
+#hero h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+
+  color: white;
+}
+
+
+#hero p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #d8b5f1;
+}
+
+
+.bg-img {
+  width:100%;
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+
+.circle-image {
+  margin-top:20px;
+}
+
+#callout {
+  font-weight: 400;
+}
+
+#copy {
+  font-weight: 800;
+}
+
+
+
+ /*ORIGINATIONS */
+
+#originations {
+  padding:80px 0 80px;
+}
+
+#originations h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 28px;
+  font-weight: 450;
+  color: #1d2f48;
+}
+
+
+#originations p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #839199;
+}
+
+/* EXPERIENCE */
+
+
+#experience {
+  padding:80px 0 80px;
+}
+
+#experience h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 28px;
+  font-weight: 450;
+  color: #1d2f48;
+}
+
+#experience p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #839199;
+}
+
+/* OPERATIONS */
+
+#operations {
+  padding:80px 0 80px;
+}
+
+#operations h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 28px;
+  font-weight: 450;
+  color: #1d2f48;
+}
+
+#operations p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #839199;
+}
+
+/* CLOUD DOC */
+
+#cloud-doc {
+  padding:80px 0 80px;
+}
+
+#cloud-doc h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 28px;
+  font-weight: 450;
+  color: #1d2f48;
+}
+
+#cloud-doc p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #839199;
+}
+
+/* REVIEW */
+
+#review {
+  background:url('../img/ryanBack.jpg');
+  width:100%;
+  background-size:cover;
+  background-repeat:no-repeat;
+  padding-bottom: 150px;
+  padding-top: 10px;
+}
+
+.review-box {
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  
+}
+
+#review-box-1-dimensions {
+  left: 887px;
+  top: 3426px;
+  width: 275px;
+  height: 150px;
+}
+
+#review-box-2-dimensions {
+  left: 887px;
+  top: 3426px;
+  width: 275px;
+  height: 190px;
+}
+
+#review-box-3-dimensions {
+  left: 887px;
+  top: 3426px;
+  width: 275px;
+  height: 165px;
+}
+
+
+
+#review-box-4-dimensions {
+  left: 500px;
+  top: 3426px;
+  width: 275px;
+  height: 150px;
+}
+
+#review-callout {
+  color: #fff;
+}
+
+.review-row {
+  margin-bottom: 35px;
+}
+
+
+
+
+#review h4 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 28px;
+  font-weight: 450;
+  color: #6944a5;
+  padding-left: 15px;
+  padding-top: 5px;
+}
+
+
+#review h5 {
+  font-size: 14px;
+  font-family: "Open Sans";
+  color: #342a41;
+  line-height: 1.714;
+  text-align: left;
+  -moz-transform: matrix( 0.99997190734815,0,0,1.00002053589963,0,0);
+  -webkit-transform: matrix( 0.99997190734815,0,0,1.00002053589963,0,0);
+  -ms-transform: matrix( 0.99997190734815,0,0,1.00002053589963,0,0);
+  left: 169.009px;
+  top: 3338.503px;
+  width: 275.325px;
+  height: 38px;
+  padding-left: 15px;
+}
+
+#review p {
+  font-size: 14px;
+  font-family: "Open Sans";
+  color: rgb(131, 145, 153);
+  line-height: 1.714;
+  text-align: left;
+  -moz-transform: matrix( 0.99997190734815,0,0,1.00002053589963,0,0);
+  -webkit-transform: matrix( 0.99997190734815,0,0,1.00002053589963,0,0);
+  -ms-transform: matrix( 0.99997190734815,0,0,1.00002053589963,0,0);
+  left: 923.816px;
+  top: 3338.503px;
+  width: 260.713px;
+  height: 38px;
+  padding-left: 15px;
+
+}
+
+
+.nav .navbar-nav .footer ul li {
+  display: inline-block;
+}
+
+/* CONTACT */
+
+.form-choice {
+  background-color: #fff;
+}
+
+
+.bottom-logo {
+  padding-top:15px;
+}
+
+.footer ul li {
+  inline: block;
+}
+
+
+
+
