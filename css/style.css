@@ -1,3 +1,15 @@
+/*FONTS*/
+@font-face {
+  font-family: santafont;
+  src :url('../fonts/santafont.TTF');
+}
+
+
+.brand {
+  font-family: santafont;
+  font-size: 30px;
+  color: #D11111;
+}
 /*NAVBAR*/
 
  .navbar-style {
@@ -27,7 +39,7 @@ p {
 }
 
 .video {
-  width: 100%;
+  width: 500px;
   height: auto;
 }
 
