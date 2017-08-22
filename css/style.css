@@ -10,6 +10,11 @@
   font-size: 30px;
   color: #D11111;
 }
+
+/*VIDEO*/
+.cam_video {
+  object:fit: fill;
+}
 /*NAVBAR*/
 
  .navbar-style {
