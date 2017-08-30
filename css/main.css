@@ -1,4 +1,8 @@
 /*****BUTTONS **********/
+
+.nav-cta {
+    color: white;
+}
 .btn-primary {
     padding: 14px 24px;
     border: 0 none;
@@ -13,15 +17,15 @@
 }
  
 .btn-primary {
-    background: #ff445f;
+    background: #D11111;
     color: #ffffff;
 }
  
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
-    background: #ff566f;
+    background: black;
 }
  
 .btn-primary:active, .btn-primary.active {
-     background: #ff566f;
+     background: #D11111;
     box-shadow: none;
 }
