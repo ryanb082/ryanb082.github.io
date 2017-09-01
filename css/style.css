@@ -166,49 +166,7 @@ p {
   padding-top: 10px;
 }
 
-.review-box {
-  border-radius: 10px;
-  background-color: rgb(255, 255, 255);
-  
-}
 
-#review-box-1-dimensions {
-  left: 887px;
-  top: 3426px;
-  width: 275px;
-  height: 150px;
-}
-
-#review-box-2-dimensions {
-  left: 887px;
-  top: 3426px;
-  width: 275px;
-  height: 190px;
-}
-
-#review-box-3-dimensions {
-  left: 887px;
-  top: 3426px;
-  width: 275px;
-  height: 165px;
-}
-
-
-
-#review-box-4-dimensions {
-  left: 500px;
-  top: 3426px;
-  width: 275px;
-  height: 150px;
-}
-
-#review-callout {
-  color: #fff;
-}
-
-.review-row {
-  margin-bottom: 35px;
-}
 
 
 
