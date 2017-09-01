@@ -9,6 +9,7 @@
   font-family: santafont;
   font-size: 30px;
   color: #D11111;
+  text-decoration: none;
 }
 
 /*VIDEO*/
@@ -20,13 +21,13 @@
 /*NAVBAR*/
 
  .navbar-style {
-   
    padding-bottom: 25px;
  }
 
 .navbar-nav {
   font-family: 'Open Sans', sans-serif;
   margin: 15px 15px 0;
+
 }
 
 .navbar-style .navbar-nav li a {
@@ -35,6 +36,7 @@
 
 .nav>li>a:hover, .nav>li>a:focus {
     background-color: transparent;
+    text-decoration: none;
 }
 
 .navbar-style .navbar-nav li a:hover {
