@@ -252,9 +252,17 @@ p {
 
 }
 
+.mid-section {
+  margin-bottom: 20px;
+}
+
 
 .nav .navbar-nav .footer ul li {
   display: inline-block;
+}
+
+.footer {
+  margin-top: 20px;
 }
 
 /* CONTACT */
