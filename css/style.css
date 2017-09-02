@@ -4,6 +4,10 @@
   src :url('../fonts/santafont.TTF');
 }
 
+#myNavbar,.navbar-style .navbar{
+  background-image: url("./img/iciclebanner2.jpg");
+}
+
 
 .brand {
   font-family: santafont;
