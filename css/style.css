@@ -30,12 +30,10 @@
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: rgba(255, 255, 255, 0.8);
-  opacity: 0;
+  background-color: rgba(255, 255, 255, 0.9);
+  opacity: 0.5;
 }
-.video-overlay:hover {
-  opacity: 1;
-}
+
 .video-overlay h1 {
   position: absolute;
   left: 50%;
