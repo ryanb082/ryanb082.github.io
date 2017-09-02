@@ -8,6 +8,10 @@
   background-image: url("./img/iciclebanner2.jpg");
 }
 
+.navbar-nav {
+  padding-top: 10px;
+}
+
 
 .brand {
   font-family: santafont;
