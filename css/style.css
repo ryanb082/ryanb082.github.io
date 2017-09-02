@@ -12,6 +12,10 @@
   text-decoration: none;
 }
 
+.header-text {
+  color: #ffffff;
+}
+
 /*VIDEO*/
 .video-section {
   position: relative;
@@ -30,8 +34,10 @@
   right: 0;
   bottom: 0;
   left: 0;
+  /*
   background-color: rgba(255, 255, 255, 0.9);
-  opacity: 0.5;
+  */
+  opacity: 1;
 }
 
 .video-overlay h1 {
@@ -41,7 +47,7 @@
   transform: translateX(-50%) translateY(-50%);
   text-transform: uppercase;
   font-size: 3em;
-  color: #000;
+  color: #ffffff;
 }
 
 
