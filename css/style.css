@@ -5,7 +5,7 @@
 }
 
 #myNavbar,.navbar-style .navbar{
-  background-image: url("./img/iciclebanner2.jpg");
+ background-color: #a91a20;
 }
 
 .navbar-nav {
@@ -108,15 +108,18 @@ p {
   margin-top: 20px;
 }
 
-
-
-
-
-.bg-img {
+.gallery-section {
+  background:url('../img/Wooden-BG.png');
   width:100%;
   background-size:cover;
   background-repeat:no-repeat;
 }
+
+
+
+
+
+
 
 .circle-image {
   margin-top:20px;
