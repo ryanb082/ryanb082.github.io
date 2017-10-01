@@ -108,19 +108,6 @@ p {
   margin-top: 20px;
 }
 
-.gallery-section {
-  background:url('../img/Wooden-BG.png');
-  width:100%;
-  background-size:cover;
-  background-repeat:no-repeat;
-}
-
-
-
-
-
-
-
 .circle-image {
   margin-top:20px;
 }
@@ -148,127 +135,23 @@ p {
   margin-top: 20px;
 }
 
-
-#experience {
-  padding:80px 0 80px;
-}
-
-#experience h1 {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 28px;
-  font-weight: 450;
-  color: #1d2f48;
-}
-
-#experience p {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 18px;
-  font-weight: 400;
-  color: #839199;
-}
-
-/* OPERATIONS */
-
-#operations {
-  padding:80px 0 80px;
-}
-
-#operations h1 {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 28px;
-  font-weight: 450;
-  color: #1d2f48;
-}
-
-#operations p {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 18px;
-  font-weight: 400;
-  color: #839199;
-}
-
-/* CLOUD DOC */
-
-#cloud-doc {
-  padding:80px 0 80px;
-}
-
-#cloud-doc h1 {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 28px;
-  font-weight: 450;
-  color: #1d2f48;
-}
-
-#cloud-doc p {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 18px;
-  font-weight: 400;
-  color: #839199;
-}
-
-/* REVIEW */
-
-#review {
-  background:url('../img/ryanBack.jpg');
-  width:100%;
-  background-size:cover;
-  background-repeat:no-repeat;
-  padding-bottom: 150px;
-  padding-top: 10px;
-}
-
-
-
-
-
-
-#review h4 {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 28px;
-  font-weight: 450;
-  color: #6944a5;
-  padding-left: 15px;
-  padding-top: 5px;
-}
-
-
-#review h5 {
-  font-size: 14px;
-  font-family: "Open Sans";
-  color: #342a41;
-  line-height: 1.714;
-  text-align: left;
-  -moz-transform: matrix( 0.99997190734815,0,0,1.00002053589963,0,0);
-  -webkit-transform: matrix( 0.99997190734815,0,0,1.00002053589963,0,0);
-  -ms-transform: matrix( 0.99997190734815,0,0,1.00002053589963,0,0);
-  left: 169.009px;
-  top: 3338.503px;
-  width: 275.325px;
-  height: 38px;
-  padding-left: 15px;
-}
-
-#review p {
-  font-size: 14px;
-  font-family: "Open Sans";
-  color: rgb(131, 145, 153);
-  line-height: 1.714;
-  text-align: left;
-  -moz-transform: matrix( 0.99997190734815,0,0,1.00002053589963,0,0);
-  -webkit-transform: matrix( 0.99997190734815,0,0,1.00002053589963,0,0);
-  -ms-transform: matrix( 0.99997190734815,0,0,1.00002053589963,0,0);
-  left: 923.816px;
-  top: 3338.503px;
-  width: 260.713px;
-  height: 38px;
-  padding-left: 15px;
-
-}
-
 .mid-section {
   margin-bottom: 20px;
   margin-top: 25px;
+  background-color: #9e1a1f;
+}
+
+.lower-section {
+  background: url('../img/Wood-BG.jpg');
+  width: 100%;
+  background-size: cover;
+  padding-top: 40px;
+}
+
+.bottom-section {
+  background: url('../img/Snow.jpg');
+  height: 100%;
+  padding-bottom: 200px;
 }
 
 
@@ -289,6 +172,10 @@ p {
 
 .bottom-logo {
   padding-top:15px;
+}
+
+#footer {
+  color: #00381e;
 }
 
 .footer ul li {
